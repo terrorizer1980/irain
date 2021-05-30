@@ -144,7 +144,7 @@ strike {
 
 .photo-bg {
     /* background-image: url(assets/background.jpg); */
-    background-image: url(https://cdn.jsdelivr.net/gh/Zikinn/ME@latest/static/logo.jpg);
+    background-image: url();
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
